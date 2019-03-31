@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Postfix
+comment1.params=e
+comment1.target=Postfix(java.lang.String)
+comment2.params=
+comment2.target=double\ eval()
+comment3.params=x
+comment3.target=double\ factorial(double)
+numComments=4
